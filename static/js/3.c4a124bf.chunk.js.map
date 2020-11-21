@@ -1,0 +1,1 @@
+{"version":3,"sources":["data/tabs/certificates.md"],"names":["module","exports"],"mappings":"6HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/3.c4a124bf.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/certificates.1b0fab5f.md\";"],"sourceRoot":""}
